@@ -1,0 +1,22 @@
+{
+    "name": "heyho",
+    "displayName": "HeyHo - modern looking VSCode theme",
+    "description": "HeyHo - modern looking VSCode theme",
+    "version": "0.0.1",
+    "publisher": "pawelgrzybekvs",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HeyHo Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HeyHo Theme-color-theme.json"
+            }
+        ]
+    }
+}
