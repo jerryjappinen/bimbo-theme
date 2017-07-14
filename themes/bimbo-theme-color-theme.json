@@ -13,7 +13,7 @@
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
 		"button.background": "#D4545B",
 		"button.foreground": "#d4d4d4",
-		"button.hoverBackground": "#ec5f67",
+		"button.hoverBackground": "#E15A60",
 
 		// Dropdown Control
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_dropdown-control
@@ -118,27 +118,27 @@
 		"editorLink.activeForeground": "#6699CC",
 		"editor.rangeHighlightBackground": "#394347",
 		"editorWhitespace.foreground": "#545454",
-		"editorIndentGuide.background": "#545454",
-		"editorRuler.foreground": "#545454",
-		"editorCodeLens.foreground": "#ff0000",
+		"editorIndentGuide.background": "#394347",
+		"editorRuler.foreground": "#394347",
+		"editorCodeLens.foreground": "#878787",
 		"editorBracketMatch.background": "#4E5A61",
 		"editorBracketMatch.border": "#4E5A61",
-		"editorOverviewRuler.border": "#ff0000",
-		"editorError.foreground": "#ff0000",
-		"editorError.border": "#ff0000",
-		"editorWarning.foreground": "#ff0000",
-		"editorWarning.border": "#ff0000",
+		"editorOverviewRuler.border": "#394347",
+		"editorError.foreground": "#E15A60",
+		"editorError.border": "#252B2E",
+		"editorWarning.foreground": "#fac863",
+		"editorWarning.border": "#252B2E",
 		"editorGutter.background": "#252B2E",
 		"editorGutter.modifiedBackground": "#6699cc",
 		"editorGutter.addedBackground": "#99c794",
-		"editorGutter.deletedBackground": "#ec5f67",
+		"editorGutter.deletedBackground": "#E15A60",
 
 		// Diff Editor Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
-		"diffEditor.insertedTextBackground": "#252B2E",
-		"diffEditor.insertedTextBorder": "#99c794",
-		"diffEditor.removedTextBackground": "#252B2E",
-		"diffEditor.removedTextBorder": "#ec5f67",
+		"diffEditor.insertedTextBackground": "#40543E",
+		"diffEditor.insertedTextBorder": "#40543E",
+		"diffEditor.removedTextBackground": "#542224",
+		"diffEditor.removedTextBorder": "#542224",
 
 		// Editor Widget Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
@@ -151,10 +151,10 @@
 		"editorSuggestWidget.selectedBackground": "#394347",
 		"editorHoverWidget.background": "#1F2426",
 		"editorHoverWidget.border": "#394347",
-		"debugExceptionWidget.background": "#ff0000",
-		"debugExceptionWidget.border": "#ff0000",
+		"debugExceptionWidget.background": "#1F2426",
+		"debugExceptionWidget.border": "#394347",
 		"editorMarkerNavigation.background": "#1F2426",
-		"editorMarkerNavigationError.background": "#ec5f67",
+		"editorMarkerNavigationError.background": "#E15A60",
 		"editorMarkerNavigationWarning.background": "#fac863",
 
 		// Peek View Colors
@@ -175,75 +175,74 @@
 
 		// Merge Conflicts
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_merge-conflicts
-		"merge.currentHeaderBackground": "#ff0000",
-		"merge.currentContentBackground": "#ff0000",
-		"merge.incomingHeaderBackground": "#ff0000",
-		"merge.incomingContentBackground": "#ff0000",
-		"merge.border": "#ff0000",
-		"editorOverviewRuler.currentContentForeground": "#ff0000",
-		"editorOverviewRuler.incomingContentForeground": "#ff0000",
+		"merge.currentHeaderBackground": "#1F2426",
+		"merge.currentContentBackground": "#1F2426",
+		"merge.incomingHeaderBackground": "#1F2426",
+		"merge.incomingContentBackground": "#1F2426",
+		"merge.border": "#394347",
+		"editorOverviewRuler.currentContentForeground": "#D4545B",
+		"editorOverviewRuler.incomingContentForeground": "#D4545B",
 
-
-
-
-
-
-		"pickerGroup.foreground": "#ff0000",
-		"pickerGroup.border": "#ff0000",
-
-
+		// Panel Colors
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_panel-colors
 		"panel.background": "#252B2E",
 		"panel.border": "#394347",
+		"panelTitle.activeBorder": "#394347",
 		"panelTitle.activeForeground": "#d4d4d4",
 		"panelTitle.inactiveForeground": "#878787",
-		"panelTitle.activeBorder": "#394347",
 
-		"statusBar.foreground": "#d4d4d4",
+		// Status Bar Colors
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_status-bar-colors
 		"statusBar.background": "#252B2E",
-		"statusBar.border": "#394347",
-		"statusBar.noFolderBackground": "#ff0000",
-		"statusBar.noFolderForeground": "#ff0000",
-		"statusBarItem.activeBackground": "#ff0000",
-		"statusBarItem.hoverBackground": "#ff0000",
-		"statusBarItem.prominentBackground": "#ff0000",
-		"statusBarItem.prominentHoverBackground": "#ff0000",
-
-
-
-
-
-		"titleBar.activeForeground": "#d4d4d4",
-		"titleBar.inactiveForeground": "#d4d4d4",
-		"titleBar.activeBackground": "#252B2E",
-		"titleBar.inactiveBackground": "#252B2E",
-
-		"notification.foreground": "#d4d4d4",
-		"notification.background": "#252B2E",
-		"notification.buttonBackground": "#6699cc",
-		"notification.buttonHoverBackground": "#6699cc",
-		"notification.buttonForeground": "#d4d4d4",
-		"notification.infoBackground": "#ec5f67",
-		"notification.infoForeground": "#d4d4d4",
-		"notification.warningBackground": "#ec5f67",
-		"notification.warningForeground": "#d4d4d4",
-		"notification.errorBackground": "#ec5f67",
-		"notification.errorForeground": "#d4d4d4",
-
-
-
+		"statusBar.foreground": "#878787",
 		"statusBar.debuggingBackground": "#252B2E",
 		"statusBar.debuggingForeground": "#d4d4d4",
+		"statusBar.noFolderForeground": "#878787",
+		"statusBar.noFolderBackground": "#252B2E",
+		"statusBarItem.activeBackground": "#252B2E",
+		"statusBarItem.hoverBackground": "#252B2E",
+		"statusBarItem.prominentBackground": "#252B2E",
+		"statusBarItem.prominentHoverBackground": "#252B2E",
+		"statusBar.border": "#394347",
 
+		// Title Bar Colors (macOS)
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_title-bar-colors-macos
+		"titleBar.activeBackground": "#252B2E",
+		"titleBar.activeForeground": "#878787",
+		"titleBar.inactiveBackground": "#252B2E",
+		"titleBar.inactiveForeground": "#878787",
 
+		// Notification Dialog Colors
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_notification-dialog-colors
+		"notification.background": "#252B2E",
+		"notification.foreground": "#d4d4d4",
+		"notification.buttonBackground": "#D4545B",
+		"notification.buttonHoverBackground": "#D4545B",
+		"notification.buttonForeground": "#d4d4d4",
+		"notification.infoBackground": "#D4545B",
+		"notification.infoForeground": "#d4d4d4",
+		"notification.warningBackground": "#D4545B",
+		"notification.warningForeground": "#d4d4d4",
+		"notification.errorBackground": "#D4545B",
+		"notification.errorForeground": "#d4d4d4",
 
-		"extensionButton.prominentBackground": "#6699cc",
-		"extensionButton.prominentForeground": "#d4d4d4",
-		"extensionButton.prominentHoverBackground": "#6699cc",
+		// Extensions
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
+		"extensionButton.prominentForeground": "#f4f4f4",
+		"extensionButton.prominentBackground": "#D4545B",
+		"extensionButton.prominentHoverBackground": "#D4545B",
 
+		// Quick Picker
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_quick-picker
+		"pickerGroup.border": "#394347",
+		"pickerGroup.foreground": "#878787",
+
+		// Integrated Terminal Colors
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors
 		"terminal.ansiBlack": "#878787",
 		"terminal.ansiBrightBlack": "#878787",
-		"terminal.ansiRed": "#ec5f67",
-		"terminal.ansiBrightRed": "#ec5f67",
+		"terminal.ansiRed": "#E15A60",
+		"terminal.ansiBrightRed": "#E15A60",
 		"terminal.ansiGreen": "#99c794",
 		"terminal.ansiBrightGreen": "#99c794",
 		"terminal.ansiYellow": "#fac863",
@@ -268,7 +267,8 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#65737e"
+				"foreground": "#878787",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 			"name": "Sub-methods",
 			"scope": "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
 			"settings": {
-				"foreground": "#EC5F67"
+				"foreground": "#E15A60"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"scope": "variable.language",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#EC5F67"
+				"foreground": "#E15A60"
 			}
 		},
 		{
@@ -382,7 +382,7 @@
 			"name": "Deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#EC5F67"
+				"foreground": "#E15A60"
 			}
 		},
 		{
@@ -440,7 +440,7 @@
 			"scope": "source.js constant.other.object.key.js string.unquoted.label.js",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#EC5F67"
+				"foreground": "#E15A60"
 			}
 		},
 		{

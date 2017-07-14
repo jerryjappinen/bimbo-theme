@@ -1,22 +1,48 @@
 {
-    "name": "heyho",
-    "displayName": "HeyHo - modern looking VSCode theme",
-    "description": "HeyHo - modern looking VSCode theme",
+    "name": "bimbo-theme",
     "version": "0.0.1",
-    "publisher": "pawelgrzybekvs",
+    "publisher": "grzybecki",
+    "homepage": "https://pawelgrzybek.com/",
     "engines": {
         "vscode": "^1.14.0"
     },
+    "license": "MIT",
+    "displayName": "Bimbo Theme",
+    "description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "bimbo",
+        "dark",
+        "theme",
+        "color-theme",
+        "oceanic",
+        "modern",
+        "minimalistic"
+    ],
+    "galleryBanner": {
+        "color": "#252B2E",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "HeyHo Theme",
+                "label": "Bimbo Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/HeyHo Theme-color-theme.json"
+                "path": "./themes/bimbo-theme-color-theme.json"
             }
         ]
-    }
+    },
+    "maintainers": [
+        "Pawel Grzybek <grzybecki@gmail.com> (https://pawelgrzybek.com/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pawelgrzybek/bimbo-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/pawelgrzybek/bimbo-theme/issues"
+    },
+    "icon": "images/icon.png"
 }

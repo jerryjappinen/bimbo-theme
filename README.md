@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "heyho"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Bimbo Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+All credit goes to the author of my favourite [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme) for developing this theme for Sublime Text. This is just a modification that is utilizing Visual Studio Code theming features.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Bimbo Theme Screenshot](images/bimbo-theme.jpg)
