@@ -38,9 +38,9 @@
 		// Scroll Bar Control
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_scroll-bar-control
 		"scrollbar.shadow": "#1F2426",
-		"scrollbarSlider.activeBackground": "#1F2426",
-		"scrollbarSlider.background": "#1F2426",
-		"scrollbarSlider.hoverBackground": "#1F2426",
+		"scrollbarSlider.activeBackground": "#58666E80",
+		"scrollbarSlider.background": "#58666E80",
+		"scrollbarSlider.hoverBackground": "#58666E80",
 
 		// Badge
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
