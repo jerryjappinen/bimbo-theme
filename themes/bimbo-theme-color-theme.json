@@ -473,6 +473,12 @@
 			"settings": {
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"scope": "text.html.basic entity.other.attribute-name.html",
+			"settings": {
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
