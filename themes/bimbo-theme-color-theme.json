@@ -467,6 +467,12 @@
 			"settings": {
 				"foreground": "#b267e6"
 			}
+		},
+		{
+			"scope": "source.js entity.other.attribute-name.js",
+			"settings": {
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
