@@ -143,7 +143,7 @@
 		// Editor Widget Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
 		"editorWidget.background": "#1F2426",
-		"editorWidget.border": "#ff0000",
+		"editorWidget.border": "#394347",
 		"editorSuggestWidget.background": "#1F2426",
 		"editorSuggestWidget.border": "#394347",
 		"editorSuggestWidget.foreground": "#d4d4d4",
