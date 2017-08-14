@@ -211,6 +211,7 @@
 		"titleBar.activeForeground": "#878787",
 		"titleBar.inactiveBackground": "#252B2E",
 		"titleBar.inactiveForeground": "#878787",
+		"titleBar.border": "#394347",
 
 		// Notification Dialog Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_notification-dialog-colors
