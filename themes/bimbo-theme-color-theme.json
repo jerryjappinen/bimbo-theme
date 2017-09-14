@@ -5,7 +5,7 @@
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_base-colors
 		"focusBorder": "#30373A",
 		"foreground": "#D4D4D4",
-		"widget.shadow": "#1D2325",
+		"widget.shadow": "#FFFFFF00",
 		"selection.background": "#FAC863",
 		"errorForeground": "#E15A60",
 
