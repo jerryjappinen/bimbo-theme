@@ -7,7 +7,7 @@
 		"foreground": "#d4d4d4",
 		"widget.shadow": "#1D2325",
 		"selection.background": "#fac863",
-		"errorForeground": "#ff0000",
+		"errorForeground": "#E15A60",
 
 		// Button Control
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
