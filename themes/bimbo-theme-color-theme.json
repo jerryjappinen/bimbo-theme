@@ -229,7 +229,7 @@
 
 		// Extensions
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
-		"extensionButton.prominentForeground": "#f4f4f4",
+		"extensionButton.prominentForeground": "#D4D4D4",
 		"extensionButton.prominentBackground": "#D4545B",
 		"extensionButton.prominentHoverBackground": "#D4545B",
 
