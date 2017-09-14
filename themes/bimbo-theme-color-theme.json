@@ -6,7 +6,7 @@
 		"focusBorder": "#30373A",
 		"foreground": "#D4D4D4",
 		"widget.shadow": "#1D2325",
-		"selection.background": "#fac863",
+		"selection.background": "#FAC863",
 		"errorForeground": "#E15A60",
 
 		// Button Control
@@ -49,7 +49,7 @@
 
 		// Progress Bar
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_progress-bar
-		"progressBar.background": "#fac863",
+		"progressBar.background": "#FAC863",
 
 		// Lists and Trees
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
@@ -126,7 +126,7 @@
 		"editorOverviewRuler.border": "#30373A",
 		"editorError.foreground": "#E15A60",
 		"editorError.border": "#242B2E",
-		"editorWarning.foreground": "#fac863",
+		"editorWarning.foreground": "#FAC863",
 		"editorWarning.border": "#242B2E",
 		"editorGutter.background": "#242B2E",
 		"editorGutter.modifiedBackground": "#6699CC",
@@ -155,7 +155,7 @@
 		"debugExceptionWidget.border": "#30373A",
 		"editorMarkerNavigation.background": "#1D2325",
 		"editorMarkerNavigationError.background": "#E15A60",
-		"editorMarkerNavigationWarning.background": "#fac863",
+		"editorMarkerNavigationWarning.background": "#FAC863",
 
 		// Peek View Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_peek-view-colors
@@ -246,8 +246,8 @@
 		"terminal.ansiBrightRed": "#E15A60",
 		"terminal.ansiGreen": "#99c794",
 		"terminal.ansiBrightGreen": "#99c794",
-		"terminal.ansiYellow": "#fac863",
-		"terminal.ansiBrightYellow": "#fac863",
+		"terminal.ansiYellow": "#FAC863",
+		"terminal.ansiBrightYellow": "#FAC863",
 		"terminal.ansiBlue": "#6699CC",
 		"terminal.ansiBrightBlue": "#6699CC",
 		"terminal.ansiMagenta": "#c594c5",
