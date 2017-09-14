@@ -136,9 +136,9 @@
 		// Diff Editor Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
 		"diffEditor.insertedTextBackground": "#40543E",
-		"diffEditor.insertedTextBorder": "#40543E",
+		"diffEditor.insertedTextBorder": "#FFFFFF4D",
 		"diffEditor.removedTextBackground": "#542224",
-		"diffEditor.removedTextBorder": "#542224",
+		"diffEditor.removedTextBorder": "#FFFFFF4D",
 
 		// Editor Widget Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
