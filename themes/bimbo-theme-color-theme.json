@@ -147,7 +147,7 @@
 		"editorSuggestWidget.background": "#1D2325",
 		"editorSuggestWidget.border": "#30373A",
 		"editorSuggestWidget.foreground": "#D4D4D4",
-		// "editorSuggestWidget.highlightForeground": "#ff0000",
+		// "editorSuggestWidget.highlightForeground": "#FF0000",
 		"editorSuggestWidget.selectedBackground": "#30373A",
 		"editorHoverWidget.background": "#1D2325",
 		"editorHoverWidget.border": "#30373A",
@@ -250,18 +250,18 @@
 		"terminal.ansiBrightYellow": "#FAC863",
 		"terminal.ansiBlue": "#6699CC",
 		"terminal.ansiBrightBlue": "#6699CC",
-		"terminal.ansiMagenta": "#c594c5",
-		"terminal.ansiBrightMagenta": "#c594c5",
-		"terminal.ansiCyan": "#5fb3b3",
-		"terminal.ansiBrightCyan": "#5fb3b3",
+		"terminal.ansiMagenta": "#C594C5",
+		"terminal.ansiBrightMagenta": "#C594C5",
+		"terminal.ansiCyan": "#5FB3B3",
+		"terminal.ansiBrightCyan": "#5FB3B3",
 		"terminal.ansiWhite": "#D4D4D4",
 		"terminal.ansiBrightWhite": "#D4D4D4"
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#D4D4D4ff",
-				"background": "#242B2Eff"
+				"foreground": "#D4D4D4",
+				"background": "#242B2E"
 			}
 		},
 		{
