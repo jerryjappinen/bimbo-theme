@@ -125,9 +125,9 @@
 		"editorBracketMatch.border": "#FFFFFF4D",
 		"editorOverviewRuler.border": "#30373A",
 
-		// "editorOverviewRuler.findMatchForeground": "#f00",
-		// "editorOverviewRuler.rangeHighlightForeground": "#f00",
-		// "editorOverviewRuler.selectionHighlightForeground": "#f00",
+		"editorOverviewRuler.findMatchForeground": "#FFFFFF0F",
+		"editorOverviewRuler.rangeHighlightForeground": "#FFFFFF0F",
+		"editorOverviewRuler.selectionHighlightForeground": "#FFFFFF0F",
 		"editorOverviewRuler.wordHighlightForeground": "#FFFFFF0F",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#FFFFFF0F",
 		"editorOverviewRuler.modifiedForeground": "#6699CC",
