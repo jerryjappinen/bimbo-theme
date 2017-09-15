@@ -9,3 +9,9 @@ All credit goes to the author of my favourite [Oceanic Next Color Scheme](https:
 ![Bimbo Theme - Logo](images/bimbo-theme-4.jpg)
 
 ![Bimbo Theme - Layout variations](images/bimbo-theme-2.jpg)
+
+![Bimbo Theme - Layout example](images/bimbo-theme-5.jpg)
+
+![Bimbo Theme - Layout example](images/bimbo-theme-6.jpg)
+
+![Bimbo Theme - Layout example](images/bimbo-theme-7.jpg)
