@@ -268,13 +268,27 @@
 		"terminal.ansiCyan": "#5FB3B3",
 		"terminal.ansiBrightCyan": "#5FB3B3",
 		"terminal.ansiWhite": "#D4D4D4",
-		"terminal.ansiBrightWhite": "#D4D4D4"
+		"terminal.ansiBrightWhite": "#D4D4D4",
+
+		// Welcome Page
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_welcome-page
+		"welcomePage.buttonBackground": "#1D2325",
+		"welcomePage.buttonHoverBackground": "#30373A",
+		"walkThrough.embeddedEditorBackground": "#1D2325",
+
+		// Git Colors
+		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_git-colors
+		"gitDecoration.modifiedResourceForeground": "#6699CC",
+		"gitDecoration.deletedResourceForeground": "#E15A60",
+		"gitDecoration.untrackedResourceForeground": "#99C794",
+		"gitDecoration.ignoredResourceForeground": "#7F7F7F",
+		"gitDecoration.conflictingResourceForeground": "#E15A60"
+
 	},
 	"tokenColors": [
 		{
 			"settings": {
 				"foreground": "#D4D4D4",
-				"background": "#242B2E"
 			}
 		},
 		{
