@@ -288,7 +288,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#D4D4D4",
+				"foreground": "#D4D4D4"
 			}
 		},
 		{
