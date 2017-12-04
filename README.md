@@ -1,6 +1,6 @@
 # Bimbo Theme
 
-![Bimbo Theme Version](https://vsmarketplacebadge.apphb.com/version-short/pawelgrzybek.bimbo-theme.svg) ![Bimbo Theme Downloads](https://vsmarketplacebadge.apphb.com/installs-short/pawelgrzybek.bimbo-theme.svg) ![Bimbo Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/pawelgrzybek.bimbo-theme.svg) ![Bimbo Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/pawelgrzybek.bimbo-theme.svg)
+![Bimbo Theme Version](https://vsmarketplacebadge.apphb.com/version-short/pawelgrzybek.bimbo-theme.svg) ![Bimbo Theme Downloads](https://vsmarketplacebadge.apphb.com/installs-short/pawelgrzybek.bimbo-theme.svg) ![Bimbo Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/pawelgrzybek.bimbo-theme.svg)
 
 All credit goes to the author of my favourite [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme) for developing this theme for Sublime Text. This is just a modification that is utilizing Visual Studio Code theming features.
 
