@@ -97,6 +97,10 @@
 		"tab.inactiveForeground": "#7F7F7F",
 		"tab.unfocusedActiveForeground": "#D4D4D4",
 		"tab.unfocusedInactiveForeground": "#7F7F7F",
+		"tab.hoverBackground": "#242B2E",
+		"tab.unfocusedHoverBackground": "#242B2E",
+		// "tab.hoverBorder": "#30373A",
+		// "tab.unfocusedHoverBorder": "#30373A",
 
 		// Editor Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
