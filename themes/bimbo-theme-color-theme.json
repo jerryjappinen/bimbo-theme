@@ -289,11 +289,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#D4D4D4"
-			}
-		},
-		{
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
