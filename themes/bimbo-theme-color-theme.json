@@ -232,7 +232,7 @@
 		"titleBar.border": "#30373A",
 
 		// Notification Dialog Colors
-		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_notification-dialog-colors
+		https://code.visualstudio.com/docs/getstarted/theme-color-reference#_notification-colors
 		"notificationCenter.border": "#30373A",
 		"notificationCenterHeader.foreground": "#D4D4D4",
 		"notificationCenterHeader.background": "#1D2325",
