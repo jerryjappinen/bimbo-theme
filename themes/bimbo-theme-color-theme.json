@@ -101,6 +101,13 @@
 		"tab.unfocusedHoverBackground": "#242B2E",
 		// "tab.hoverBorder": "#30373A",
 		// "tab.unfocusedHoverBorder": "#30373A",
+		// "editor.selectionHighlightBorder": "#f00",
+		// "editor.wordHighlightBorder": "#f00",
+		// "editor.wordHighlightStrongBorder": "#f00",
+		// "editor.findMatchBorder": "#7F7F7F",
+		// "editor.findMatchHighlightBorder": "#f09",
+		// "editor.findRangeHighlightBorder": "#f00",
+		// "editor.rangeHighlightBorder": "#f00",
 
 		// Editor Colors
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
@@ -271,6 +278,7 @@
 		"terminal.ansiBrightCyan": "#5FB3B3",
 		"terminal.ansiWhite": "#D4D4D4",
 		"terminal.ansiBrightWhite": "#D4D4D4",
+		"terminal.border": "#30373A",
 
 		// Welcome Page
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_welcome-page
